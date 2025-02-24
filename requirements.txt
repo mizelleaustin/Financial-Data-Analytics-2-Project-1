@@ -1,0 +1,11 @@
+discord
+os
+asyncio
+yfinance
+random
+requests
+pandas
+dotenv
+numpy
+datetime
+pytz
